@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnalyzTMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnalyzTMI_jar</output-path>
+    <root id="archive" name="AnalyzTMI.jar">
+      <element id="module-output" name="AnalyzTMI" />
+    </root>
+  </artifact>
+</component>
